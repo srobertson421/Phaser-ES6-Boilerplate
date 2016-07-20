@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node_modules/browser-sync/bin/browser-sync.js start --server . --files ."
+    "start": "node_modules/browser-sync/bin/browser-sync.js start --server . --files .",
+    "bundle": "jspm bundle-sfx --minify src/main build/bundle.min.js"
   },
   "author": "",
   "license": "ISC",
