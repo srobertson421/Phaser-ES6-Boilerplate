@@ -16,3 +16,8 @@ To start server and browser-sync
 ```bash
 npm start
 ```
+
+To bundle code to minified source
+```bash
+npm run bundle
+```
