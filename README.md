@@ -11,3 +11,8 @@ Then install local dependencies
 npm install
 jspm install
 ```
+
+To start server and browser-sync
+```bash
+npm start
+```
