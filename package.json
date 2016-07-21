@@ -15,6 +15,7 @@
   },
   "jspm": {
     "dependencies": {
+      "json": "github:systemjs/plugin-json@^0.1.2",
       "phaser": "github:photonstorm/phaser@^2.6.1"
     },
     "devDependencies": {
